@@ -1,0 +1,46 @@
+ul {
+	margin-top:32px;
+	margin-left:32px;
+	color: #3D58A6;
+	list-style-type: none;
+	font-size: 22px;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+#currentpage {
+	color: #4AC20E;
+}
+h1 {
+	font-size: 30px;
+	color:#3D58A6;
+	border-color:#4AC20E; border-style: solid; border-radius: 10px; border-width: thick; 
+	padding-left: 28px;
+
+}
+.box2 {
+	margin-left: 28px;
+	margin-right: 39px;
+	margin-top: 18px;
+	margin-bottom:102px;
+}
+#image2 {
+	margin-left: 70px;	
+}
+p {
+	color: #3D58A6;
+	font-size:22px;
+}
+.detailedinformation {
+	border-bottom-style: solid; border-bottom-width: 5px;
+	margin-top: 33px;
+}
+.box3 {
+	text-align: center;
+	font-size: 25px;
+	color: #3D58A6;
+	border-top: solid; border-color: #707070;
+	padding-top: 12px;
+}
